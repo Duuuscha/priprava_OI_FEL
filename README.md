@@ -1,5 +1,5 @@
 # priprava_OI_FEL
-souhrn materiálů na BSZZ na OI FEL v rámci přípravy na magisterké přijímačky
+Dva strojaři sbírají materiály v rámci přípravy na magisterké přijímačky OI FEL
 
 [Stažená pdf na Dropboxu](https://www.dropbox.com/sh/ornrlqph1fdaim2/AABAuUiUGShkXhvCh9Mwe1x9a?dl=0)
 
