@@ -11,9 +11,9 @@ souhrn materiálů na BSZZ na OI FEL v rámci přípravy na magisterké přijím
 
 [skalahonza - BSSZ OI FEL 2016](https://gist.github.com/skalahonza/6fad572b7d969e08ce6a258c7d7bde68?fbclid=IwAR34y3iHVXQZOf5pO9ZEAURS3SgtY5LfjmPrgTDR7apZ702osQ8hnG5MyBw)
 
-[tomaskrizek - BSZZ TUL 2016](https://github.com/tomaskrizek/tul-szz-it-nv?fbclid=IwAR1I4sBcC24fdBKF8j5MNlaJlkCKuQrb6OExpw7t9Qv6UC7pjizndB4sqfA)
+[tomaskrizek - BSSZ TUL 2016](https://github.com/tomaskrizek/tul-szz-it-nv?fbclid=IwAR1I4sBcC24fdBKF8j5MNlaJlkCKuQrb6OExpw7t9Qv6UC7pjizndB4sqfA)
 
-[FIT BSSZ](https://fit-szz.github.io/szz-bootcamp/topics/SPOL/?fbclid=IwAR0RT4FcPXnTjEhY9caIpAasmvy5y3tlx7flpzeKnnG0W9r1YcKryDEg2Kw)
+[vosatom - FIT BSSZ 2019](https://github.com/fit-szz/szz-bootcamp)
 
 [draliii - MSZZ OI FEL 2020](https://github.com/draliii/oi-mszz?fbclid=IwAR0Gbp6aHLSB-nOnrHj5X-RetE-64ObtQCXDNBW-VUT9WFUZTwUu5yKL-KM)
 
