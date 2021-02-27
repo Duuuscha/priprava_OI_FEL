@@ -1,7 +1,7 @@
 # priprava_OI_FEL
 souhrn materiálů na BSZZ na OI FEL v rámci přípravy na magisterké přijímačky
 
-[Stažená pdf na Dropboxu](https://www.dropbox.com/sh/s9ab7gfwlnk232w/AACzn0EWTeil1_onTK14c_qca?dl=0)
+[Stažená pdf na Dropboxu](https://www.dropbox.com/sh/ornrlqph1fdaim2/AABAuUiUGShkXhvCh9Mwe1x9a?dl=0)
 
 [ksonny4 - rozcestník s odkazy](https://ksonny4.github.io/?fbclid=IwAR0kU0Ybk5CNJkdT9BwAUWO9o74gU9SGEVycOT9deTJs1lbYXmVnZGaP_Yg)
 
