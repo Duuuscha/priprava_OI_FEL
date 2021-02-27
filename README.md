@@ -17,11 +17,7 @@ Lineární prostor, báze a dimenze, řešení soustav lineárních rovnic, line
 - [notes](ftp://math.feld.cvut.cz/pub/velebil/downloads/akla/akla_2021_02_12.pdf)
 - [exercise]()
 
-### ([Procedurální programování - B0B36PRP](https://fel.cvut.cz/cz/education/bk/predmety/47/02/p4702606.html)
-Imperativní programování. Programovací jazyk C. Abstraktní datové typy a spojové struktury.
-
-
-### [B0B36PRP](https://fel.cvut.cz/cz/education/bk/predmety/47/02/p4702606.html)
+### [Procedurální programování - B0B36PRP](https://fel.cvut.cz/cz/education/bk/predmety/47/02/p4702606.html)
 Imperativní programování. Programovací jazyk C. Abstraktní datové typy a spojové struktury.
 
 ### [B0B01MA1](https://fel.cvut.cz/cz/education/bk/predmety/46/80/p4680306.html), [B0B01MA2](https://fel.cvut.cz/cz/education/bachelor/topicsOI2016.html)
