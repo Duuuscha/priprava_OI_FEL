@@ -35,7 +35,7 @@ Architektura počítače; CPU, paměti, subsystémy.
 ### [B4B38PSI](https://fel.cvut.cz/cz/education/bk/predmety/46/66/p4666906.html)
 Počítačové sítě, ISO/OSI model, vlastnosti fyzických vrstev, topologie, řízení přístupu k médiu, kódování, spolehlivost datových přenosů, protokoly rodiny TCP/IP
 
-### B0B01MA2(https://fel.cvut.cz/cz/education/bk/predmety/46/80/p4680806.html)
+### [B0B01MA2](https://fel.cvut.cz/cz/education/bk/predmety/46/80/p4680806.html)
 Funkce více proměnných. Mocninné řady. Dvojný a trojný integrál.
 
 ### [B0B01PST](https://fel.cvut.cz/cz/education/bk/predmety/46/81/p4681506.html)
